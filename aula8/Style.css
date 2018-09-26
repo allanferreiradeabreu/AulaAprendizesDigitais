@@ -1,0 +1,76 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.primeira{
+
+    width: 100w;
+    height:35vh;
+    background-color: black;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+
+}
+.tittle{
+
+    font-size: 40px;
+    
+}
+
+button{
+    background-color: green;
+    border: none;
+}
+
+li{
+    margin-left: 50px;
+    list-style-type: none;
+    border: 1px solid pink;
+    padding: 5px;
+    border-radius: 5px;
+}
+.menu{
+    
+    margin: 15px;
+    display: flex;
+}
+.segunda{
+
+    width: 100vw;
+    height: 30vh;
+    background-color: orangered;
+}
+.terceira{
+
+    width: 100vw;
+    height: 35vh;
+    background-color:whitesmoke;
+}
+section{
+    display: flex;
+}
+
+article{
+    border: 2px solid red;
+    width: 50%;
+}
+
+p{
+    border: 2px solid blue;
+    
+}
+
+aside{
+    border: 2px dotted greenyellow;
+    width: 50%;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
